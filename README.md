@@ -24,11 +24,11 @@ Let's explore this immense universe of programming together. Welcome to my journ
 <!-- fim da apresentação -->
 <!-- imagem destaque -->
 <div align="center" >
-  <p align="center">
+  <p>
     Experiencing the world of programming intensely  😉️
   </p>
   <br>
-<img  src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="500px" width="500px"  alt="Computador iuriCode">
+<img  src="./github.png" min-width="400px" max-width="500px" width="500px"  alt="Computador iuriCode">
 </div>
 <br>
 <div align="center">
