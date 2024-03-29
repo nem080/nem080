@@ -70,9 +70,10 @@ Let's explore this immense universe of programming together. Welcome to my journ
   <img align="center" alt="figma" src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117">
   <img align="center" alt="sql" height="" src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117">
   <img align="center" alt="materialIcons" height="" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-  <img align="center" alt="selenium" height="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white&logoColor=4FC08D">
-  <img align="center" alt="robot" height="" src="https://img.shields.io/badge/Robot%20Framework-00bfbf?style=for-the-badge&logo=robot-framework&logoColor=white&logoColor=4FC08D
- ">
+<!--   <img align="center" alt="robot" height="" src="https://img.shields.io/badge/Robot%20Framework-00bfbf?style=for-the-badge&logo=roboframework&logoColor=white&logoColor=4FC08D
+ "> -->
+  <img align="center" alt="selenium" height="" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  
   </div>
   <br>
 
