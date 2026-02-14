@@ -7,13 +7,14 @@
   </h1>
   
   <p align="center">
-Hello! I'm a Front End Developer, my name is Rogisvaldo João, a mind passionate about challenges, always looking for new passions. Initially, my heart beat for the world of sport, where competition and the pursuit of excellence pushed me to overcome limits. However, at some point in my journey, I discovered a new passion, something that deeply captivated me: programming.
+Hello! I'm Rogisvaldo João, a Quality Analyst who is passionate about software development and technology. Although my professional role is focused on software quality, testing, and continuous improvement, my curiosity and enthusiasm for development keep me constantly exploring new tools, languages, and solutions.
 
-The transition from sports to the vast world of programming may seem like a radical change, but for me, it's a fascinating journey of discovery. Every day that I spend immersed in this world, delving into codes and algorithms, I feel like I am exploring unexplored territories. Every challenge I face, every line of code I write, is an opportunity to learn and grow.
+I’m driven by challenges and by the desire to understand how things work under the hood. I enjoy turning problems into structured solutions, contributing to better products, and collaborating with teams to deliver reliable and efficient software. My journey combines quality mindset with a developer’s curiosity — always learning, building, and refining.
 
-My passion for programming continues to grow, and every day I dedicate myself to improving my skills. I look forward to sharing my progress, projects, and contributions here on GitHub, where community and collaboration are the essence of this amazing world of technology.
+Here on GitHub, you’ll find my studies, experiments, and projects that reflect my growth in development and quality engineering. I believe great software is built with both creativity and precision — and that’s the balance I aim for every day.
 
-Let's explore this immense universe of programming together. Welcome to my journey of discovery and constant improvement! 🚀
+Let’s build and improve great software together. 🚀
+
 
 
 
